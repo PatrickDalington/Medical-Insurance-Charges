@@ -1,0 +1,1 @@
+{"use_log_target": true, "base_features": ["age", "sex", "bmi", "children", "smoker", "region"], "num_cols": ["age", "bmi", "children", "bmi2", "age2", "bmi_age"], "cat_cols": ["sex", "smoker", "region"], "calibration": {"a": 0.9001562595367432, "b": 1601.6318359375}, "apply_calibration_by_default": true}
